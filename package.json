@@ -1,0 +1,24 @@
+{
+  "name": "graphql-party",
+  "version": "1.0.0",
+  "description": "Going to make something cool or I might just cry cause I hate myself",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pruesinghnagra/graphql-party.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pruesinghnagra/graphql-party/issues"
+  },
+  "homepage": "https://github.com/pruesinghnagra/graphql-party#readme",
+  "dependencies": {
+    "apollo-server": "^2.25.2",
+    "graphql": "^15.5.1"
+  }
+}
